@@ -166,7 +166,7 @@ Arranged by Elaine Lyons</text>
           <Tempo>
             <tempo>1.8</tempo>
             <followText>1</followText>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 108</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 108</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -2982,17 +2982,6 @@ Arranged by Elaine Lyons</text>
         <voice>
           <Chord>
             <durationType>whole</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
-                  <o4 x="3" y="0"/>
-                  </SlurSegment>
-                </Slur>
-              <next>
-                <location>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -5487,83 +5476,7 @@ Arranged by Elaine Lyons</text>
       <Measure>
         <voice>
           <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/2</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/2</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/2</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/2</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
+            <durationType>whole</durationType>
             <Note>
               <pitch>37</pitch>
               <tpc>9</tpc>
