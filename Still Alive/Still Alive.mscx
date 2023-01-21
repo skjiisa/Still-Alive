@@ -4353,72 +4353,297 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
+              </Note>
             <Note>
               <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
+                <prev>
                   <location>
-                    <fractions>1/4</fractions>
+                    <fractions>-1/4</fractions>
                     </location>
-                  </next>
+                  </prev>
                 </Spanner>
-              <pitch>51</pitch>
+              <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
+              </Note>
             <Note>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
+            <Note>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
+              </Note>
             <Note>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
-            <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
+              </Note>
             <Note>
               <pitch>39</pitch>
               <tpc>11</tpc>
               </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>39</pitch>
-              <tpc>11</tpc>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
               </Note>
             <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -4503,156 +4728,6 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
-              </Note>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
-              </Note>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
-              </Note>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
               <pitch>35</pitch>
               <tpc>7</tpc>
               </Note>
@@ -4719,231 +4794,6 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>47</pitch>
               <tpc>7</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
-              </Note>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
-              </Note>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
-              </Note>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -5028,6 +4878,81 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
               <pitch>35</pitch>
               <tpc>7</tpc>
               </Note>
@@ -5103,8 +5028,8 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -5116,15 +5041,15 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -5134,47 +5059,32 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -5182,6 +5092,21 @@ Arranged by Elaine Lyons</text>
               <tpc>12</tpc>
               </Note>
             <Note>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
+              </Note>
+            <Note>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
@@ -5191,15 +5116,15 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -5209,41 +5134,191 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
+              <pitch>27</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>37</pitch>
+              <tpc>9</tpc>
+              </Note>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           </voice>
@@ -5328,8 +5403,8 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -5341,15 +5416,15 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -5359,41 +5434,41 @@ Arranged by Elaine Lyons</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>30</pitch>
-              <tpc>8</tpc>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
               </Note>
             <Note>
-              <pitch>42</pitch>
-              <tpc>8</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -5462,21 +5537,6 @@ Arranged by Elaine Lyons</text>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>whole</durationType>
             <Note>
               <pitch>37</pitch>
               <tpc>9</tpc>
