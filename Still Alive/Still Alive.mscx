@@ -3871,6 +3871,35 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>75</pitch>
               <tpc>11</tpc>
               </Note>
@@ -11119,6 +11148,25 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>66</pitch>
               <tpc>8</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            <Note>
+              <pitch>78</pitch>
+              <tpc>8</tpc>
+              </Note>
+            <Note>
+              <pitch>87</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
@@ -20514,6 +20562,21 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>47</pitch>
               <tpc>7</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>39</pitch>
+              <tpc>11</tpc>
+              </Note>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </voice>
