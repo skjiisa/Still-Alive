@@ -2312,6 +2312,15 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>78</pitch>
+              <tpc>8</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -2364,6 +2373,15 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>80</pitch>
               <tpc>10</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2446,6 +2464,26 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <o4 x="3" y="0"/>
+                  </SlurSegment>
+                </Slur>
+              <next>
+                <location>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -2501,6 +2539,15 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -2510,12 +2557,18 @@ Arranged by Elaine Lyons</text>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2524,6 +2577,44 @@ Arranged by Elaine Lyons</text>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
@@ -2531,12 +2622,18 @@ Arranged by Elaine Lyons</text>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2544,6 +2641,53 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2552,12 +2696,43 @@ Arranged by Elaine Lyons</text>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
+              </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2618,6 +2793,15 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2674,6 +2858,15 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -2731,6 +2924,18 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2813,6 +3018,15 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>78</pitch>
+              <tpc>8</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -2865,6 +3079,15 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>80</pitch>
               <tpc>10</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2947,6 +3170,15 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -3002,6 +3234,15 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -3011,12 +3252,18 @@ Arranged by Elaine Lyons</text>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3025,6 +3272,44 @@ Arranged by Elaine Lyons</text>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>73</pitch>
+              <tpc>9</tpc>
+              </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
@@ -3032,12 +3317,18 @@ Arranged by Elaine Lyons</text>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
             <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3045,6 +3336,53 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3053,12 +3391,43 @@ Arranged by Elaine Lyons</text>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
+              </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
               <pitch>63</pitch>
               <tpc>11</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3085,6 +3454,10 @@ Arranged by Elaine Lyons</text>
               <pitch>61</pitch>
               <tpc>9</tpc>
               </Note>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
+              </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
@@ -3119,6 +3492,15 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3159,6 +3541,10 @@ Arranged by Elaine Lyons</text>
               <pitch>61</pitch>
               <tpc>9</tpc>
               </Note>
+            <Note>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
@@ -3172,6 +3558,15 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -3232,6 +3627,18 @@ Arranged by Elaine Lyons</text>
             <Note>
               <pitch>61</pitch>
               <tpc>9</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>8</tpc>
               </Note>
             </Chord>
           </voice>
@@ -5592,21 +5999,6 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <durationType>eighth</durationType>
             <Note>
               <pitch>37</pitch>
@@ -5624,31 +6016,61 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
               </Note>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
               </Note>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           </voice>
@@ -6600,21 +7022,6 @@ Arranged by Elaine Lyons</text>
               </Note>
             </Chord>
           <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
-              </Note>
-            <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <durationType>eighth</durationType>
             <Note>
               <pitch>37</pitch>
@@ -6632,31 +7039,61 @@ Arranged by Elaine Lyons</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
               </Note>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>37</pitch>
-              <tpc>9</tpc>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
               </Note>
             <Note>
-              <pitch>44</pitch>
-              <tpc>10</tpc>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
               </Note>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>35</pitch>
+              <tpc>7</tpc>
+              </Note>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>8</tpc>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>7</tpc>
               </Note>
             </Chord>
           </voice>
