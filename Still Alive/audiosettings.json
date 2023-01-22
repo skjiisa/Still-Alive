@@ -20,14 +20,14 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "metronome",
+            "instrumentId": "flute",
             "out": {
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "999",
+            "partId": "1",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -72,14 +72,14 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "flute",
+            "instrumentId": "metronome",
             "out": {
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "1",
+            "partId": "999",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
